@@ -1,6 +1,6 @@
 Flask==3.0.3
 pandas 
-numpy 
-torch==2.2.0+cpu
+numpy==1.21.6
+torch==2.2.0 --index-url https://download.pytorch.org/whl/cpu
 scikit-learn 
 joblib
