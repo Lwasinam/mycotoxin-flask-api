@@ -1,6 +1,6 @@
 Flask==3.0.3
 pandas 
 numpy 
-torch 
+torch==2.2.0+cpu
 scikit-learn 
 joblib
